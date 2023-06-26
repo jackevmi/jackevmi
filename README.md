@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Stack Up**
 
-- 🌱 I’m currently learning **Leadwerks Engine**
+- 🌱 I’m currently learning **Leadwerks Engine** and **Raylib**
 
 - ⚡ Fun fact **I have been programming since 2017**
 
